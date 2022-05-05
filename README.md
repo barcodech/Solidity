@@ -32,7 +32,7 @@ div.a {
   <p>ep2 Install Metamask wallet</p><br>
   <p>ep6 <a href="https://gist.github.com/barcodech/a69fcc00589985d8ea83b42e3130aa9d">Remix Types & Declaring Variables</a></p><br>
 <div class="a">
-  <p><a href="https://gist.github.com/barcodech/b6339b7c299c2e1afada9d9e2aafec44">StorageFactory</a></p>
+  <p>321321321</p>
 </div>
 
 
