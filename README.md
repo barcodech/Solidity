@@ -9,5 +9,6 @@ ep6 <a href="https://gist.github.com/barcodech/a69fcc00589985d8ea83b42e3130aa9d"
 ep7 <a href="https://gist.github.com/barcodech/14481fd202579106c1719478ef92b78f">Function</a><br>
 ep8 <a href="https://gist.github.com/barcodech/413e6d54e039b92bcb324275c52957ca">Struct objects</a><br>
 ep9 Deploy to testnet<br>
-
+ep10 <a href="https://gist.github.com/barcodech/b6339b7c299c2e1afada9d9e2aafec44">Inheritance 1</a><br>
+<a href="https://gist.github.com/barcodech/a0e57d2a969b1b6458c43ab6bedfc01c">Inheritance 2</a><br>
 
