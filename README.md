@@ -12,6 +12,6 @@ ep9 Deploy to testnet<br>
 ep10 Inheritance<br>
 
 
-<p style="margin-left:10%"><a href="https://gist.github.com/barcodech/a0e57d2a969b1b6458c43ab6bedfc01c">SimpleStorage</a><br>
+<p style="margin-left:10%; margin-right:10%;"><a href="https://gist.github.com/barcodech/a0e57d2a969b1b6458c43ab6bedfc01c">SimpleStorage</a><br>
 <a href="https://gist.github.com/barcodech/b6339b7c299c2e1afada9d9e2aafec44">StorageFactory</a><br></p>
 
