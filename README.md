@@ -5,7 +5,7 @@
 #3 Blockchain demo<br>
 #4 private & public keys<br>
 #5 Consensus on Blockchain<br>
-#6 <a href="https://gist.github.com/barcodech/b2789a8b041147a7c3315608fc499449">Start remix & first contract</a><br>
+#6 <a href="https://gist.github.com/barcodech/9d33779015e207f6ce90c2e2bad22a5d">Start remix & first contract</a><br>
 #7 <a href="https://gist.github.com/barcodech/14481fd202579106c1719478ef92b78f">Function</a><br>
 #8 <a href="https://gist.github.com/barcodech/413e6d54e039b92bcb324275c52957ca">Struct objects</a><br>
 #9 Deploy to testnet<br>
