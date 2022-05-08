@@ -10,6 +10,8 @@
 #8 <a href="https://gist.github.com/barcodech/a2c9f318f05525599add15d39d4e6a58">the first function</a><br>
 #9 <a href="https://gist.github.com/barcodech/14481fd202579106c1719478ef92b78f">the second function</a><br>
 #10 Deploy to testnet<br>
+#11 <a href="https://gist.github.com/barcodech/a37a13d2b17e2ed63afbc14e09db1ddd">Variable Types</a><br>
+
 
 
 
