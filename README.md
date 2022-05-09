@@ -12,6 +12,8 @@
 #10 Deploy to testnet<br>
 #11 <a href="https://gist.github.com/barcodech/a37a13d2b17e2ed63afbc14e09db1ddd">Variable Types</a><br>
 #12 <a href="https://gist.github.com/barcodech/adf145e8e7487626eb9929f2d7508692">View and Pure Functions</a><br>
+#13 <a href="https://gist.github.com/barcodech/d4d16c12bb08cf4c07346048b299a85d">Counter</a><br>
+
 
 
 
