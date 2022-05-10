@@ -16,6 +16,8 @@
 #14 <a href="https://gist.github.com/barcodech/e9b8359d215fdf6af55eb27d273aed54">Default Values</a><br>
 #15 <a href="https://gist.github.com/barcodech/00e245e76aed192643aab3500be62262">Constants</a><br>
 #16 <a href="https://gist.github.com/barcodech/3497b8de46f42bc0ff8661a972e50bfe">If Else</a><br>
+#17 <a href="https://gist.github.com/barcodech/4ac6a5d014ff32e6972a8b93257b4f07">For and While Loops</a><br>
+
 
 
 
