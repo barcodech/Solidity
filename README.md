@@ -21,6 +21,8 @@
 #19 <a href="https://gist.github.com/barcodech/46bd8c550289fd0ffd1633e21adfc5f2">Function Modifier</a><br>
 #20 <a href="https://gist.github.com/barcodech/75efa493ea3defe733f99c4295180c21">Constructor</a><br>
 #21 <a href="https://gist.github.com/barcodech/6634c59b476a11e522c513f8306bb1ab">Ownable</a><br>
+#22 <a href="https://gist.github.com/barcodech/47974292d8378001da55ecee18120f4d">Function Outputs</a><br>
+
 
 
 
