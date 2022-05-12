@@ -26,6 +26,8 @@
 #24 <a href="https://gist.github.com/barcodech/acbfa3becd02b107b82782988c228cdb">Array Remove An Element By Shifting</a><br>
 #25 <a href="https://gist.github.com/barcodech/8c99e012ab6a98f1eb1cacf5a04387d2">Array Remove An Element By Replacing</a><br>
 #26 <a href="https://gist.github.com/barcodech/6b38878b59196afed9c83a164a7a72fc">Mapping</a><br>
+#27 <a href="https://gist.github.com/barcodech/b42a7bcb299dceef8501cf6517b3c4a1">Iterable Mapping</a><br>
+
 
 
 
