@@ -28,6 +28,8 @@
 #26 <a href="https://gist.github.com/barcodech/6b38878b59196afed9c83a164a7a72fc">Mapping</a><br>
 #27 <a href="https://gist.github.com/barcodech/b42a7bcb299dceef8501cf6517b3c4a1">Iterable Mapping</a><br>
 #28 <a href="https://gist.github.com/barcodech/15d8efe74b436997f9cbc00b78d86be5">Struct 1</a><br>
+#29 <a href="https://gist.github.com/barcodech/413e6d54e039b92bcb324275c52957ca">Struct 2</a><br>
+
 
 
 
@@ -53,7 +55,6 @@
 
 
 
-#8 <a href="https://gist.github.com/barcodech/413e6d54e039b92bcb324275c52957ca">Struct objects</a><br>
 #10 Inheritance <a href="https://gist.github.com/barcodech/a0e57d2a969b1b6458c43ab6bedfc01c">SimpleStorage</a> <a href="https://gist.github.com/barcodech/b6339b7c299c2e1afada9d9e2aafec44">StorageFactory</a><br>
 
 
