@@ -33,6 +33,8 @@
 #31 <a href="https://gist.github.com/barcodech/042df57f9bab5f28577112adfcde01e1">Storage, Memory and Calldata</a><br>
 #32 <a href="https://gist.github.com/barcodech/3b88e5a246a62364c1fb3ab408c87850">Simple Storage</a><br>
 #33 <a href="https://gist.github.com/barcodech/3b8972baabf3e91640775addc2c731e8">Todo List</a><br>
+#34 <a href="https://gist.github.com/barcodech/8e5b77f2f1136a80bf2037b64dd7a869">Event</a><br>
+
 
 
 
