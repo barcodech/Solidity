@@ -31,6 +31,8 @@
 #29 <a href="https://gist.github.com/barcodech/413e6d54e039b92bcb324275c52957ca">Struct 2</a><br>
 #30 <a href="https://gist.github.com/barcodech/9011e084a321ae2aa9ba42aa2fb2e01b">Enum</a><br>
 #31 <a href="https://gist.github.com/barcodech/042df57f9bab5f28577112adfcde01e1">Storage, Memory and Calldata</a><br>
+#32 <a href="https://gist.github.com/barcodech/3b88e5a246a62364c1fb3ab408c87850">Simple Storage</a><br>
+
 
 
 
