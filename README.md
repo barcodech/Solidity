@@ -34,6 +34,8 @@
 #32 <a href="https://gist.github.com/barcodech/3b88e5a246a62364c1fb3ab408c87850">Simple Storage</a><br>
 #33 <a href="https://gist.github.com/barcodech/3b8972baabf3e91640775addc2c731e8">Todo List</a><br>
 #34 <a href="https://gist.github.com/barcodech/8e5b77f2f1136a80bf2037b64dd7a869">Event</a><br>
+#35 <a href="https://gist.github.com/barcodech/0c6237b1e0177ed9b21193187d5d97fc">Inheritance 1</a><br>
+
 
 
 
