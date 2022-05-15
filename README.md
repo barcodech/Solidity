@@ -38,6 +38,8 @@
 #36 Inheritance 2 <a href="https://gist.github.com/barcodech/a0e57d2a969b1b6458c43ab6bedfc01c">SimpleStorage</a> <a href="https://gist.github.com/barcodech/b6339b7c299c2e1afada9d9e2aafec44">StorageFactory</a><br>
 #37 <a href="https://gist.github.com/barcodech/e8f74b6161a4b434172d0ef88df8e607">Multiple Inheritances</a><br>
 #38 <a href="https://gist.github.com/barcodech/44e240a65da24539edd6e2f7edd881d0">Calling Parent Constructors</a><br>
+#39 <a href="https://gist.github.com/barcodech/e2595c696d183c0f5ee99cd794c0afed">Visibility</a><br>
+
 
 
 
