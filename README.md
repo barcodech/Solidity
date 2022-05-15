@@ -41,6 +41,8 @@
 #39 <a href="https://gist.github.com/barcodech/e2595c696d183c0f5ee99cd794c0afed">Visibility</a><br>
 #40 <a href="https://gist.github.com/barcodech/a13dca1f160eaecc7df26642bf6ee8fc">Immutable</a><br>
 #41 <a href="https://gist.github.com/barcodech/a13dca1f160eaecc7df26642bf6ee8fc">Payable</a><br>
+#42 <a href="https://gist.github.com/barcodech/71cee61d54e2cd88298a7204c2a5fe96">Fallback</a><br>
+
 
 
 
