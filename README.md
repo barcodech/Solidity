@@ -43,6 +43,8 @@
 #41 <a href="https://gist.github.com/barcodech/a13dca1f160eaecc7df26642bf6ee8fc">Payable</a><br>
 #42 <a href="https://gist.github.com/barcodech/71cee61d54e2cd88298a7204c2a5fe96">Fallback</a><br>
 #43 <a href="https://gist.github.com/barcodech/87ca75cf00ad585d276a02a534a0a1c6">Send ETH</a><br>
+#44 <a href="https://gist.github.com/barcodech/a9fa7a777ce51cff1e0d526cd8e81034c6">Ether Wallet</a><br>
+
 
 
 
