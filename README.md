@@ -47,6 +47,8 @@
 #45 <a href="https://gist.github.com/barcodech/e9ca52962bd6bf65ff550b8abec88503">Call Function From Other Contracts</a><br>
 #46 <a href="https://gist.github.com/barcodech/b731e8e6012a110d9b168329910f6ec3">Interface</a><br>
 #47 <a href="https://gist.github.com/barcodech/2324fe65bbb15e93751f35befe4e3506">Call</a><br>
+#48 <a href="https://gist.github.com/barcodech/1a52ce2bf6edf1d8abc0641c2fc2e002">Delegatecall</a><br>
+
 
 
 
