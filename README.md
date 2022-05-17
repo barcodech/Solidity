@@ -46,6 +46,8 @@
 #44 <a href="https://gist.github.com/barcodech/a9fa7a777ce51cff1e0d526cd8e81034c6">Ether Wallet</a><br>
 #45 <a href="https://gist.github.com/barcodech/e9ca52962bd6bf65ff550b8abec88503">Call Function From Other Contracts</a><br>
 #46 <a href="https://gist.github.com/barcodech/b731e8e6012a110d9b168329910f6ec3">Interface</a><br>
+#47 <a href="https://gist.github.com/barcodech/2324fe65bbb15e93751f35befe4e3506">Call</a><br>
+
 
 
 
