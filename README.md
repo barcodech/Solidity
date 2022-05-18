@@ -49,6 +49,7 @@
 #47 <a href="https://gist.github.com/barcodech/2324fe65bbb15e93751f35befe4e3506">Call</a><br>
 #48 <a href="https://gist.github.com/barcodech/1a52ce2bf6edf1d8abc0641c2fc2e002">Delegatecall</a><br>
 #49 <a href="https://gist.github.com/barcodech/0c11b0712c9c5d8420865be2d9a49f65">New</a><br>
+#50 <a href="https://gist.github.com/barcodech/26d9c63cbecb359c515543bf7d9e8de3">Library</a><br>
 
 
 
