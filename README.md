@@ -51,6 +51,8 @@
 #49 <a href="https://gist.github.com/barcodech/0c11b0712c9c5d8420865be2d9a49f65">New</a><br>
 #50 <a href="https://gist.github.com/barcodech/26d9c63cbecb359c515543bf7d9e8de3">Library</a><br>
 #51 <a href="https://gist.github.com/barcodech/9ae9d600771dc4bfd6cd6467b7d3e34d">Keccak256 Hash Function</a><br>
+#52 <a href="https://gist.github.com/barcodech/2363edacee6eb8c35094df6f0822d519">Verify Signature</a><br>
+
 
 
 
