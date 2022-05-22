@@ -35,7 +35,7 @@
 #33 <a href="https://gist.github.com/barcodech/3b8972baabf3e91640775addc2c731e8">Todo List</a><br>
 #34 <a href="https://gist.github.com/barcodech/8e5b77f2f1136a80bf2037b64dd7a869">Event</a><br>
 #35 <a href="https://gist.github.com/barcodech/0c6237b1e0177ed9b21193187d5d97fc">Inheritance 1</a><br>
-#36 Inheritance 2 <a href="https://gist.github.com/barcodech/a0e57d2a969b1b6458c43ab6bedfc01c">SimpleStorage</a> <a href="https://gist.github.com/barcodech/b6339b7c299c2e1afada9d9e2aafec44">StorageFactory</a><br>
+#36 Inheritance 2 <a href="https://gist.github.com/barcodech/a0e57d2a969b1b6458c43ab6bedfc01c">SimpleStorage</a> | <a href="https://gist.github.com/barcodech/b6339b7c299c2e1afada9d9e2aafec44">StorageFactory</a><br>
 #37 <a href="https://gist.github.com/barcodech/e8f74b6161a4b434172d0ef88df8e607">Multiple Inheritances</a><br>
 #38 <a href="https://gist.github.com/barcodech/44e240a65da24539edd6e2f7edd881d0">Calling Parent Constructors</a><br>
 #39 <a href="https://gist.github.com/barcodech/e2595c696d183c0f5ee99cd794c0afed">Visibility</a><br>
@@ -58,7 +58,7 @@
 #56 <a href="https://gist.github.com/barcodech/bb8e05113ccc055930992b20377f6150">สร้างเหรียญ ERC20 TOKEN</a><br>
 #57 <a href="https://gist.github.com/barcodech/26d3d3126e6e67705307799c7babb6d5">Multi Sig Wallet</a><br>
 #58 <a href="https://gist.github.com/barcodech/35def7a564947fc6963aa2c14bd7d1be">Function Selector</a><br>
-#59 <a href="https://gist.github.com/barcodech/b8663a45cee83f2d3d87b8fd1b8454b3">Dutch Auction</a><a href="https://gist.github.com/barcodech/30e74c9aacdf1383c7f424e5d09e4124">NFT</a><br>
+#59 <a href="https://gist.github.com/barcodech/b8663a45cee83f2d3d87b8fd1b8454b3">Dutch Auction</a> | <a href="https://gist.github.com/barcodech/30e74c9aacdf1383c7f424e5d09e4124">NFT</a><br>
 
 
 
