@@ -65,6 +65,8 @@
 #63 <a href="https://gist.github.com/barcodech/bcc75089b2936f9190bbba51984d7a48">Multi Call</a><br>
 #64 <a href="https://gist.github.com/barcodech/eb12142cf089ef14182b1f8606ff6669">Multi Delegatecall</a><br>
 #65 <a href="https://gist.github.com/barcodech/ccc3baf07dda7d5ff3bf4c9fa0b9dfd0">ABI Decode</a><br>
+#66 <a href="https://gist.github.com/barcodech/66e16c468fa4fda350d403e464336d4d">Save Gas</a><br>
+
 
 
 
